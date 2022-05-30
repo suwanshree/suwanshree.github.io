@@ -757,7 +757,7 @@ input[type="radio"] + label:before {
   position: relative;
 }
 
-.image:before {
+/* .image:before {
   pointer-events: none;
   background-image: url("../../images/overlay.png");
   background-color: rgba(19, 21, 25, 0.5);
@@ -770,7 +770,7 @@ input[type="radio"] + label:before {
   position: absolute;
   top: 0;
   width: 100%;
-}
+} */
 
 .image img {
   border-radius: 4px;
