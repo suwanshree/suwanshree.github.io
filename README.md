@@ -20,6 +20,9 @@
   </p>
   <a align="center" href="https://github.com/suwanshree">Github Profile</a>
   </p>
+  <p>
+    Favicon attribution: <a href="https://www.flaticon.com/free-icons/universe" title="universe icons">Universe icons created by Freepik - Flaticon</a>
+  </P>
 </div>
 
 
