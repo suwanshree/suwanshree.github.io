@@ -1394,7 +1394,7 @@ body.is-preload #bg:before {
   -ms-transition: opacity 0.325s ease-in-out;
   transition: opacity 0.325s ease-in-out;
   position: relative;
-  margin-top: 3.5rem;
+  margin-top: 2.5rem;
 }
 
 #header > *:before {
@@ -1404,7 +1404,6 @@ body.is-preload #bg:before {
   top: calc(-3.5rem - 1px);
   left: calc(50% - 1px);
   width: 1px;
-  height: calc(3.5rem + 1px);
   background: #ffffff;
 }
 
@@ -1733,8 +1732,7 @@ body.is-preload #header .content .inner {
 }
 
 .profile-image {
-  border-radius: 50%;
-  border: solid 1px rgb(24, 26, 27);
+  border: solid 1px rgb(183, 183, 183);
 }
 
 @media screen and (max-width: 736px) {
