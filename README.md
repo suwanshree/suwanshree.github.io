@@ -14,7 +14,7 @@
     <br />
   </p>
   <p align="center">
-    Built on Template 'Dimension' by HTML5 UP
+    Built on Template 'Parallelism' by HTML5 UP
 	html5up.net | @ajlkn
     <br />
   </p>
